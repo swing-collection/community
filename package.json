@@ -21,7 +21,7 @@
       ]
     },
     "devDependencies": {
-      "mocha": "10.8.2",
+      "mocha": "11.0.1",
       "semistandard": "17.0.0"
     }
   }
